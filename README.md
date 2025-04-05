@@ -15,7 +15,7 @@ This project detects weeds in crop fields using YOLOv5 + MHSA (Multi-Head Self A
 
 After uploading an image, the model detects weed and gives the confidence score.
 
-sample_detection1.png
+sample_detection1.pg
 
 > Confidence: 0.62 — The weed has been successfully detected in the given image.
 
